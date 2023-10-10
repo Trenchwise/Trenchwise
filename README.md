@@ -14,6 +14,7 @@ Portfolio: tanyafrench.com
 ---
 
 - 🌱 I’m currently learning TypeScript
+- ✨ I am working on crimechecker.co.uk - an app to check stop and search and crime in your area
 - ⚡ Fun fact: I love marmite
 
 
