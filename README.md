@@ -13,9 +13,9 @@ Portfolio: tanyafrench.com
 
 --
 
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
-- 
+- 🌱 I’m currently learning TypeScript
+- ⚡ Fun fact: I love marmite
+
 
 <!--
 **Trenchwise/Trenchwise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
