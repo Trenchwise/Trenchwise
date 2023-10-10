@@ -6,12 +6,12 @@ I have a background in finance and entrepreneurship
 
 I like to solve problems
 
-<br></br>
+---
 
 LinkedIn: https: https://www.linkedin.com/in/tanya-french-9b66a227/
 Portfolio: tanyafrench.com
 
-<br></br>
+---
 
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: ...
