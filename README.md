@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi I'm Tanya 👋🏽
+
+I work with Javascript, React-Redux, Node.js
+
+I have a background in finance and entrepreneurship
+
+I like to solve problems
+
+<br></br>
+
+LinkedIn: https: https://www.linkedin.com/in/tanya-french-9b66a227/
+Portfolio: tanyafrench.com
+
+<br></br>
+
+- 🌱 I’m currently learning ...
+- ⚡ Fun fact: ...
+- 
 
 <!--
 **Trenchwise/Trenchwise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
