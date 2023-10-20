@@ -8,7 +8,8 @@ I like to solve problems
 
 ---
 
-LinkedIn: https: https://www.linkedin.com/in/tanya-french-9b66a227/
+LinkedIn: https: https://www.linkedin.com/in/tanya-french-9b66a227
+
 Portfolio: www.tanyafrench.com
 
 ---
