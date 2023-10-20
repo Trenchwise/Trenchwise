@@ -12,6 +12,10 @@ LinkedIn: https: https://www.linkedin.com/in/tanya-french-9b66a227
 
 Portfolio: www.tanyafrench.com
 
+test 
+
+test 
+
 ---
 
 - 🌱 I’m currently learning TypeScript
