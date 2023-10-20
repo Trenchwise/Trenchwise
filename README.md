@@ -9,7 +9,7 @@ I like to solve problems
 ---
 
 LinkedIn: https: https://www.linkedin.com/in/tanya-french-9b66a227/
-Portfolio: tanyafrench.com
+Portfolio: www.tanyafrench.com
 
 ---
 
