@@ -8,19 +8,20 @@ I like to solve problems
 
 ---
 
+Get in touch 👉🏽
+
 LinkedIn: https: https://www.linkedin.com/in/tanya-french-9b66a227
 
 Portfolio: www.tanyafrench.com
 
-test 
-
-test 
-
 ---
 
+What am I learning 📚
+
+- 👍🏽  Refreshing on vanillia Javascript, by revisiting old projects
 - 🌱 I’m currently learning TypeScript
 - ✨ I am working on crimechecker.co.uk - an app to check stop and search and crime in your area
-- ⚡ Fun fact: I love marmite
+- ⚡  Fun fact: I love marmite
 
 
 <!--
