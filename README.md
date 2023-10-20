@@ -21,7 +21,7 @@ What am I doing atm? 📚
 - 👍🏽 Refreshing on vanillia Javascript, by revisiting old projects
 - 🌱 I’m currently learning TypeScript 
 - ✨ I am adding an area compare feature to crimechecker.co.uk - an app to check stop and search and crime in your area
-- ⚡  Fun fact: I love indoor cycling and Korean dramas.
+- ⚡  Fun fact: I love indoor cycling and South Korean dramas.
 
 
 <!--
